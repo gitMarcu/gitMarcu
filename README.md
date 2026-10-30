@@ -21,9 +21,9 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTVS%20Protheus-ADVPL%20%2F%20TLPP-0b5394?style=for-the-badge" alt="TOTVS Protheus ADVPL/TLPP" />
-  <img src="https://img.shields.io/badge/Axum-SQLx-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="Axum e SQLx" />
-  <img src="https://img.shields.io/badge/Workers-KV%20%C2%B7%20Durable%20Objects-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers, KV e Durable Objects" />
+  <img src="assets/badges/protheus.svg" alt="TOTVS Protheus: ADVPL / TLPP" />
+  <img src="assets/badges/rust-axum.svg" alt="Rust: Axum e SQLx" />
+  <img src="assets/badges/cloudflare.svg" alt="Cloudflare: Workers, KV e Durable Objects" />
 </p>
 
 ## 🚀 Projetos em destaque
@@ -82,8 +82,8 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcoantonio206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:marcosmeireles359@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/marcoantonio206/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:marcosmeireles359@gmail.com"><img src="assets/badges/email.svg" alt="E-mail" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0d1117&height=110&section=footer" width="100%" alt="" />
