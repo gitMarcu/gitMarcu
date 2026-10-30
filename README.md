@@ -51,20 +51,14 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
       <a href="https://encurtador.marcosmeireles359.workers.dev">Ver no ar →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐳 <a href="https://github.com/gitMarcu/wsl">Docker no Windows com WSL</a></h3>
-      Guia completo, passo a passo, para instalar o Docker Engine direto no WSL 2 sem Docker Desktop.<br/><br/>
-      <code>WSL 2</code> <code>Docker</code> <code>Linux</code><br/>
-      <a href="https://github.com/gitMarcu/wsl">Ler o guia →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>☀️ Multi+ Energia Solar</h3>
       Landing page com simulador de economia e orçamento integrado ao WhatsApp.<br/><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Workers</code><br/>
       <a href="https://multimais.marcosmeireles359.workers.dev">Ver no ar →</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
       <h3>🦷 RP Odonto</h3>
       Site institucional de clínica odontológica, estático e otimizado para carregar rápido no celular.<br/><br/>
       <code>HTML</code> <code>CSS</code> <code>Workers</code><br/>
