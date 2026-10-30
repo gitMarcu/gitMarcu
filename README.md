@@ -1,111 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=190&section=header&text=Marco%20Ant%C3%B4nio&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Rust%20%C2%B7%20TypeScript%20%C2%B7%20Protheus&descAlignY=58&descSize=16" width="100%" alt="Marco Antônio" />
+<img src="assets/arcade/tela.svg" width="100%" alt="Marco Antônio, desenvolvedor full stack: Hall da Fama com os projetos A360, Cerimonializando, MJC Player, TMG Loja, Central de Produção, Protheus, Encurtador, Multi+ Solar e RP Odonto, e power-ups com a stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Sistemas+web%2C+desktop+e+ERP+de+ponta+a+ponta;APIs+em+Rust+e+NestJS+%C2%B7+Front+em+Next.js;Do+Protheus+ao+edge+da+Cloudflare" alt="Sistemas web, desktop e ERP de ponta a ponta" />
+<a href="https://www.linkedin.com/in/marcoantonio206/"><img src="assets/arcade/btn-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:marcosmeireles359@gmail.com"><img src="assets/arcade/btn-email.svg" alt="E-mail" /></a>
+
+<a href="https://encurtador.marcosmeireles359.workers.dev"><img src="assets/arcade/btn-encurtador.svg" alt="Encurtador no ar" /></a>
+<a href="https://multimais.marcosmeireles359.workers.dev"><img src="assets/arcade/btn-multimais.svg" alt="Multi+ Solar no ar" /></a>
+<a href="https://rpodonto.marcosmeireles359.workers.dev"><img src="assets/arcade/btn-rpodonto.svg" alt="RP Odonto no ar" /></a>
+
+<img src="https://streak-stats.demolab.com?user=gitMarcu&locale=pt_BR&background=07020F&border=FF2BD6&stroke=FF2BD6&ring=FF2BD6&fire=FFE14A&currStreakNum=3FF2FF&currStreakLabel=3FF2FF&sideNums=FFFFFF&sideLabels=FFC4F2&dates=A99AD6&border_radius=12" alt="Sequência de contribuições de gitMarcu" />
 
 </div>
 
-## 👋 Sobre mim
+<details>
+<summary>Versão em texto</summary>
 
-Construo software que vai do banco de dados à tela do usuário: SaaS com API em **Rust**, aplicativos desktop com **Tauri**, sites rápidos na **Cloudflare** e customizações de ERP no **TOTVS Protheus**. Gosto de sistemas leves, seguros e bem documentados.
+**Marco Antônio** · desenvolvedor full stack · Rust, TypeScript, Python e TOTVS Protheus (ADVPL/TLPP).
 
-- 🔭 Hoje: um SaaS para cerimonialistas e um player desktop para rádio e eventos
-- 🏢 No dia a dia: desenvolvimento e integrações para o Protheus (ADVPL/TLPP)
-- ⚡ Obsessão: performance, segurança e boa experiência de uso
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| A360 | Painel de audiência de TV ao vivo para uma emissora | Python, FastAPI, React, ECharts, PostgreSQL, MongoDB, Redis |
+| Cerimonializando | SaaS de gestão para cerimonialistas | Rust, Axum, PostgreSQL, Next.js, Typst |
+| MJC Player | App desktop de programação musical | Tauri, Rust, Next.js, NestJS, Prisma |
+| TMG Loja | Estoque, vendas e emissão de NF-e | Rust, PostgreSQL, Next.js, Java |
+| Central de Produção | Painel de eventos e demandas integrado ao Protheus | Rust, WebAssembly, Cloudflare Workers, Supabase |
+| Protheus | Rotinas, relatórios e integrações de ERP | ADVPL, TLPP, Python, TypeScript |
+| [Encurtador](https://github.com/gitMarcu/encurtador) | Encurtador de URLs no edge com auditoria de acessos | TypeScript, Cloudflare Workers, KV, Durable Objects |
+| [Multi+ Solar](https://multimais.marcosmeireles359.workers.dev) | Landing page com simulador de economia | HTML, CSS, JavaScript |
+| [RP Odonto](https://rpodonto.marcosmeireles359.workers.dev) | Site institucional de clínica odontológica | HTML, CSS |
 
-## 🛠️ Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,react,nextjs,vite,nodejs,nestjs,fastapi,tauri,postgres,mongodb,redis,prisma,tailwind,cloudflare,docker,linux,git&perline=10" alt="Rust, TypeScript, JavaScript, Python, React, Next.js, Vite, Node.js, NestJS, FastAPI, Tauri, PostgreSQL, MongoDB, Redis, Prisma, Tailwind, Cloudflare, Docker, Linux, Git" />
-</p>
-
-<p align="center">
-  <img src="assets/badges/protheus.svg" alt="TOTVS Protheus: ADVPL / TLPP" />
-  <img src="assets/badges/rust-axum.svg" alt="Rust: Axum e SQLx" />
-  <img src="assets/badges/cloudflare.svg" alt="Cloudflare: Workers, KV e Durable Objects" />
-</p>
-
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📺 A360: audiência de TV em tempo real</h3>
-      Painel usado por uma emissora de TV para acompanhar a audiência minuto a minuto frente à concorrência, com grade de programação, breaks comerciais, mapas de calor e telas para TV. Importa dados do IBOPE/Kantar a cada minuto e atualiza os clientes via SSE, com login por Active Directory e MFA.<br/><br/>
-      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>ECharts</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Redis</code><br/>
-      <sub>🔒 Código privado</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💍 Cerimonializando</h3>
-      SaaS de gestão para cerimonialistas: convidados, cronogramas, documentos em PDF e QR Codes.<br/><br/>
-      <code>Rust</code> <code>Axum</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Typst</code><br/>
-      <sub>🔒 Código privado</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 MJC Player</h3>
-      Aplicativo desktop de reprodução e programação musical, com atualização automática e backend próprio.<br/><br/>
-      <code>Tauri</code> <code>Rust</code> <code>Next.js</code> <code>NestJS</code> <code>Prisma</code><br/>
-      <sub>🔒 Código privado</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/gitMarcu/encurtador">Encurtador</a></h3>
-      Encurtador de URLs no edge, com API autenticada, rate limiting e auditoria de acessos em SQLite.<br/><br/>
-      <code>TypeScript</code> <code>Workers</code> <code>KV</code> <code>Durable Objects</code><br/>
-      <a href="https://encurtador.marcosmeireles359.workers.dev">Ver no ar →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☀️ Multi+ Energia Solar</h3>
-      Landing page com simulador de economia e orçamento integrado ao WhatsApp.<br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Workers</code><br/>
-      <a href="https://multimais.marcosmeireles359.workers.dev">Ver no ar →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦷 RP Odonto</h3>
-      Site institucional de clínica odontológica, estático e otimizado para carregar rápido no celular.<br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>Workers</code><br/>
-      <a href="https://rpodonto.marcosmeireles359.workers.dev">Ver no ar →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 Customizações TOTVS Protheus</h3>
-      Rotinas, relatórios e integrações para Financeiro, Fiscal, Compras, Estoque, Folha e Assinatura Digital, incluindo um proxy em Python para a API do Bradesco.<br/><br/>
-      <code>ADVPL</code> <code>TLPP</code> <code>Python</code> <code>TypeScript</code><br/>
-      <sub>🔒 Código privado</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👗 TMG: gestão de loja</h3>
-      Estoque, vendas e catálogo para loja de vestidos, com emissão de NF-e e interface pensada para o celular.<br/><br/>
-      <code>Rust</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Java</code> <code>NF-e</code><br/>
-      <sub>🔒 Código privado</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Central de Produção</h3>
-      Painel de eventos, demandas e fornecedores integrado ao histórico do Protheus, com API em Rust compilada para WebAssembly.<br/><br/>
-      <code>Rust</code> <code>WebAssembly</code> <code>Workers</code> <code>Supabase</code> <code>Next.js</code><br/>
-      <sub>🔒 Código privado</sub>
-    </td>
-  </tr>
-</table>
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gitMarcu&theme=tokyonight&hide_border=true&locale=pt_BR&background=0D1117" alt="Sequência de contribuições de gitMarcu" />
-</p>
-
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcoantonio206/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:marcosmeireles359@gmail.com"><img src="assets/badges/email.svg" alt="E-mail" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0d1117&height=110&section=footer" width="100%" alt="" />
+</details>
