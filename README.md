@@ -17,7 +17,7 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,nestjs,tauri,postgres,prisma,tailwind,cloudflare,docker,python,linux,git&perline=8" alt="Rust, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Tauri, PostgreSQL, Prisma, Tailwind, Cloudflare, Docker, Python, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,react,nextjs,vite,nodejs,nestjs,fastapi,tauri,postgres,mongodb,redis,prisma,tailwind,cloudflare,docker,linux,git&perline=10" alt="Rust, TypeScript, JavaScript, Python, React, Next.js, Vite, Node.js, NestJS, FastAPI, Tauri, PostgreSQL, MongoDB, Redis, Prisma, Tailwind, Cloudflare, Docker, Linux, Git" />
 </p>
 
 <p align="center">
@@ -29,6 +29,14 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
 ## 🚀 Projetos em destaque
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📺 A360: audiência de TV em tempo real</h3>
+      Painel usado por uma emissora de TV para acompanhar a audiência minuto a minuto frente à concorrência, com grade de programação, breaks comerciais, mapas de calor e telas para TV. Importa dados do IBOPE/Kantar a cada minuto e atualiza os clientes via SSE, com login por Active Directory e MFA.<br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>ECharts</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Redis</code><br/>
+      <sub>🔒 Código privado</sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💍 Cerimonializando</h3>
