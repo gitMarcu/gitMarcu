@@ -58,11 +58,17 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" valign="top">
       <h3>🦷 RP Odonto</h3>
       Site institucional de clínica odontológica, estático e otimizado para carregar rápido no celular.<br/><br/>
       <code>HTML</code> <code>CSS</code> <code>Workers</code><br/>
       <a href="https://rpodonto.marcosmeireles359.workers.dev">Ver no ar →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Customizações TOTVS Protheus</h3>
+      Rotinas, relatórios e integrações para Financeiro, Fiscal, Compras, Estoque, Folha e Assinatura Digital.<br/><br/>
+      <code>ADVPL</code> <code>TLPP</code> <code>Python</code> <code>TypeScript</code><br/>
+      <sub>🔒 Código privado</sub>
     </td>
   </tr>
 </table>
