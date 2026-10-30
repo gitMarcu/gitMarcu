@@ -66,8 +66,22 @@ Construo software que vai do banco de dados à tela do usuário: SaaS com API em
     </td>
     <td width="50%" valign="top">
       <h3>🏢 Customizações TOTVS Protheus</h3>
-      Rotinas, relatórios e integrações para Financeiro, Fiscal, Compras, Estoque, Folha e Assinatura Digital.<br/><br/>
+      Rotinas, relatórios e integrações para Financeiro, Fiscal, Compras, Estoque, Folha e Assinatura Digital, incluindo um proxy em Python para a API do Bradesco.<br/><br/>
       <code>ADVPL</code> <code>TLPP</code> <code>Python</code> <code>TypeScript</code><br/>
+      <sub>🔒 Código privado</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👗 TMG: gestão de loja</h3>
+      Estoque, vendas e catálogo para loja de vestidos, com emissão de NF-e e interface pensada para o celular.<br/><br/>
+      <code>Rust</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Java</code> <code>NF-e</code><br/>
+      <sub>🔒 Código privado</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Central de Produção</h3>
+      Painel de eventos, demandas e fornecedores integrado ao histórico do Protheus, com API em Rust compilada para WebAssembly.<br/><br/>
+      <code>Rust</code> <code>WebAssembly</code> <code>Workers</code> <code>Supabase</code> <code>Next.js</code><br/>
       <sub>🔒 Código privado</sub>
     </td>
   </tr>
